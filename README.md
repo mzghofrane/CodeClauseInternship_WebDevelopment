@@ -1,1 +1,1 @@
-# CodeClauseInternship_WebDevelopment : Task 2= " Github Explorer "
+# CodeClauseInternship_WebDevelopment : " Github Explorer "
